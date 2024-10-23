@@ -1,2 +1,2 @@
 //Respect Every man
-alert("Respect Every Man");
+alert("Yes");
