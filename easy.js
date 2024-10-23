@@ -1,2 +1,2 @@
-//say Hello World
-console.log("Say Heello World");
+//Respect Every man
+alert("Respect Every Man");
